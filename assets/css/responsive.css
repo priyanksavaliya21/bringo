@@ -1,0 +1,1781 @@
+@media (min-width: 1200px) {
+    header .container {
+        max-width: 1300px;
+    }
+
+    .section-2 .container {
+        max-width: 1115px;
+    }
+    .page-2-section5 .container , .page2_section-7 .container {
+        max-width: 1100px;
+    }
+
+    .section-4 .container,
+    .section-9 .container,
+    .section-10 .container , .page-2-section-2 .container , .page2_section4 .container , .page2_section-9 .container {
+        max-width: 1200px;
+    }
+
+    .bringo_footer_block .container {
+        max-width: 1170px;
+    }
+
+    .section-5 .container,
+    .section-6 .container,
+    .section-7 .container   {
+        max-width: 1196px;
+    }
+
+}
+
+@media (max-width: 1800px) {
+   
+}
+
+@media (max-width: 1600px) {
+   
+}
+
+@media (max-width: 1440px) {
+    .page-2-section-2 .container{
+        max-width: 1100px;
+    }
+
+
+}
+
+@media (max-width: 1360px) {
+    .page-2-banner .container_banner {
+        max-width: 1080px;
+    }
+    
+   
+}
+
+@media (max-width: 1280px) {}
+
+@media (max-width: 1199px) {
+
+    .container , .page-2-section-2 .container {
+        max-width: 960px;
+    }
+    .page-2-banner .container_banner{
+        max-width: 865px;
+    }
+
+    .nav li,
+    .nav {
+        margin-left: 30px;
+    }
+
+    .section-1 {
+        padding: 180px 0px 180px 0px;
+
+    }
+
+    .hero_text h1 {
+        font-size: 58px;
+        line-height: 60px;
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+
+    .hero_text a ,  .page2-section-6_expo {
+        font-size: 22px;
+
+    }
+
+    .right-call-sec4,
+    .left-call-sec4 {
+        width: 50%;
+    }
+
+    .Sexual_Health_img,
+    .Sexual_Health_img img {
+        height: auto;
+    }
+
+    .right-call-sec4 {
+        padding-left: 80px;
+    }
+
+    .Sexual_Health_img::before {
+        height: 246px;
+    }
+
+    .row_middel .right-call-sec4 {
+        padding-right: 80px;
+        padding-left: 0px !important;
+    }
+
+    .row_middel .Sexual_Health_img::before {
+        height: 218px;
+    }
+
+    .health_block .row-x:first-child {
+        margin-bottom: 180px;
+    }
+
+    .row_middel {
+        margin-bottom: 60px;
+    }
+
+    .section-4 {
+        padding: 120px 0px;
+    }
+
+    .cm_row-sec5 {
+        margin: 0px -15px 64px;
+    }
+
+    .cm-call-4 {
+        padding: 0 15px;
+    }
+
+    .sec8_head h3 {
+
+        font-size: 28px;
+
+        margin: 24px 0px 28px 0px;
+    }
+
+    .section-6,
+    .section-8,
+    .section-10 , .page-2-section-2 , .page2_section4 , .page-2-section5 , .page2_section-7 , .page2_section-9  {
+        padding: 85px 0px;
+    }
+
+    .sec8_head p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .right_part_sec6 {
+        max-width: 50%;
+    }
+
+    .left_part_sec6 {
+        width: 70%;
+        padding: 35px;
+        top: 47%;
+    }
+
+    .left_part_sec6 h2 {
+        font-size: 38px;
+        line-height: normal;
+    }
+
+    .left_part_sec6 h5 {
+        font-size: 24px;
+        line-height: normal;
+        margin: 16px 0px;
+    }
+
+    .left_part_sec6 p {
+        font-size: 16px;
+        line-height: 24px;
+
+    }
+
+    .left_call_s7  {
+        width: 50%;
+    }
+  
+ 
+    .right_call_s7 {
+        max-width: 50%;
+    }
+
+    .section-7 br {
+        display: none;
+    }
+
+    .right_call_s7 h3 {
+        font-size: 30px;
+    }
+
+    .line_rotat {
+        width: 260px;
+    }
+    .how_works .row-y:nth-child(1) .line_rotat {
+        right: -34%;
+        bottom: 10%;
+    }
+    .how_works .row-y:nth-child(3) .line_rotat {
+        right: -28%;
+        top: -6%;
+
+    }
+    .section-9 {
+        padding: 90px 0px 120px 0px;
+    }
+    .sec-10_head h3 ,.page2_sec9_head h3 {
+        font-size: 28px;
+    }
+    .page2_sec4_head h3 {
+        margin: 15px 0px 50px 0px;
+        font-size: 26px;
+    }
+    .part-6 {
+        width: 100%;
+    }
+    .pills_cardbody h4 {
+        margin-top: 30px;
+    }
+
+
+    .footerbox {
+        margin-top: 45px;
+    }
+
+    .contact_details {
+        display: flex;
+        align-items: center;
+    }
+
+    .contact_details li {
+        margin-right: 25px;
+    }
+
+  
+    .page-2-banner {
+        padding-bottom: 120px;
+    }
+
+    .product_img {
+        left: -3.5%;
+        max-width: 300px;
+    }
+
+    .bg_banner_img1 {
+        min-height: 400px;
+    }
+
+    .left-banner-call-block h1 {
+        font-size: 42px;
+        margin: 16px 0px 16px 0px;
+        line-height: 54px;
+    }
+    .right_call_abouted {
+        padding-left: 40px;
+    }
+    .page-2-section-3 {
+        padding: 30px 0;
+    }
+    .page_2sec3_block h3 {
+        font-size: 28px;
+        line-height: normal;
+    }
+    .page2_sec5_img img{
+        max-width: 250px;
+    }
+    .bringo_works_textblock h4 {
+        font-size: 18px;    
+    }
+    .bringo_works_textblock p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .bringo_works_textblock h5 {
+        line-height: 40px;
+    }
+    .page2-section-6 .left_part_sec6 h5 {
+        line-height: 32px;
+    }
+    .pricing_left_col6 {
+        max-width: 50%;
+        width: 50%;
+    }
+    .pricing_right_col6 {
+        padding: 0 0 0 40px;
+        width:  50%;  
+    }
+    .page2_sec9_head h3 {   
+        margin: 18px 0 35px 0;
+    }
+    .promise_call-4 {
+        padding: 0 15px;
+    }
+    .page2_section-9 .row {
+        margin: 0 -15px;
+    }
+    .page2_sec10 .sec-10_head h3 {  
+        font-size: 42px;
+        line-height: 56px;
+    }
+ 
+}
+
+@media (max-width: 991px) {
+    /* remove mouseover paralaxx effect by js */
+    /* #remove-parx{
+            transform: translate3d(0px, 0px, 0px)!important;
+            transform-style: unset!important;
+            backface-visibility: unset!important;
+            position: static !important;;
+            display: unset!important;
+            left: unset!important;
+            top: unset!important; 
+    } */
+    .container , .page-2-section-2 .container {
+        max-width: 720px;
+    }
+    .page-2-banner .container_banner {
+        max-width: 672px;
+        padding: 140px 0px 0px 0px;
+    }
+
+    .comman_btn {
+        font-size: 14px;
+        width: 130px;
+        height: 43px;
+    }
+
+    .nav li {
+        margin-left: 10px;
+    }
+
+    img[alt=header-logo] {
+        max-width: 100px;
+    }
+
+    .login_block li .color_hover {
+        margin-right: 10px;
+    }
+
+    .nav {
+        margin-left: 22px;
+    }
+
+    header {
+        padding: 20px 0px;
+
+    }
+
+    .section-1 {
+        padding: 150px 0px 150px 0px;
+    }
+
+    .hero_text h1 {
+        font-size: 52px;
+        line-height: 55px;
+        margin-bottom: 20px;
+    }
+
+    .section-2 .cm_col_3 {
+        width: 50%;
+    }
+
+    .cm_row .cm_col_3:nth-child(2),
+    .cm_row .cm_col_3:nth-child(1) {
+        margin-bottom: 45px;
+    }
+
+    .section-2 {
+        padding: 100px 0px 100px 0px;
+
+    }
+
+    .left-call-sec4 p {
+        font-size: 16px;
+        line-height: 1.5;
+        padding-left: 16px;
+        margin-bottom: 21px;
+    }
+
+    .left-call-sec4 h3 {
+        font-size: 28px;
+    }
+
+    .Sexual_Health_img::before {
+        height: 197.33px;
+        width: 136.23px;
+        top: 40px;
+        left: -40px;
+    }
+
+    .health_block .row-x:first-child {
+        margin-bottom: 110px;
+    }
+
+    .row_middel {
+        margin-bottom: 16px;
+    }
+
+    .row_middel .Sexual_Health_img::before {
+        height: 197.33px;
+        width: 214.55px;
+        top: -40px;
+        right: -40px;
+    }
+
+    .section-4 {
+        padding: 100px 0px;
+    }
+
+    .sec_4_head h4 {
+        font-size: 28px;
+        margin-bottom: 65px;
+    }
+
+    .section-4 .comman_btn,
+    .left_part_sec6 .comman_btn,
+    .cardbody .comman_btn,
+    .page_2sec3_block a ,    .sec-11-btn .comman_btn  , .abouted_text_content .comman_btn ,.page2_sec4_last_btn a , .page2_sec5_btn a , .pricing_right_col6 .comman_btn{
+        width: 175px;
+        height: 45px;
+        font-size: 16px !important;
+    }
+    .page2_section4 .page2_sec4_last_btn {
+        margin-top: 40px;
+    }
+    .section-5,
+    .section-7,
+    .section-10 , .page-2-section-2 ,.page2_section4 , .page-2-section5 , .page2_section-7 , .page2_section-9{
+        padding: 80px 0px;
+    }
+
+    .section-8 {
+        padding: 60px 0px;
+    }
+
+    .right_call_s7 h3 {
+        font-size: 22px;
+        line-height: normal;
+    }
+
+    .right_call_s7 p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .line_rotat {
+        width: 170px;
+    }
+
+    .sec-7-head h4 {
+        font-size: 26px;
+        line-height: normal;
+        margin: 15px 0px 50px 0px;
+    }
+
+    .sec-5-head h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .sec-5-head h3 {
+        font-size: 44px;
+        margin-top: 0px;
+        margin-bottom: 36px;
+    }
+
+    .cm-call-4 h2 {
+        font-size: 34px;
+        line-height: 58px;
+    }
+
+    .cm-call-4 h5 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+
+    .cm-call-4 p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .cm_row-sec5 {
+        margin-bottom: 45px;
+    }
+
+    .concern_block h3 {
+        font-size: 20px;
+    }
+
+    .text_strock {
+        font-size: 70px;
+    }
+
+    .concern_block {
+        padding: 50px 37px;
+    }
+
+    .right_part_sec6 {
+        max-width: 85%;
+    }
+
+    .sec-6-img {
+        max-height: unset;
+    }
+
+    .left_part_sec6 h2 {
+        font-size: 30px;
+    }
+
+    .left_part_sec6 h5 {
+        font-size: 22px;
+    }
+
+    .how_works .row-y:nth-child(1) .line_rotat {
+        right: -35%;
+
+    }
+
+    .how_works .row-y:nth-child(3) .line_rotat {
+        right: -24%;
+        top: -6%;
+    }
+
+    .sec-9-call-4 {
+        width: 50%;
+
+        margin-bottom: 65px;
+    }
+
+    .row-card {
+        justify-content: center;
+    }
+
+    .dive_in_head h3 {
+        font-size: 44px;
+        margin: 4px 0px 5px 0px;
+    }
+
+    .dive_in_card {
+        margin-top: 37px;
+    }
+
+    .row-card .sec-9-call-4:last-child {
+        margin-bottom: 0px;
+    }
+
+    .section-10 {
+        padding: 80px 0px 65px 0px;
+    }
+
+    .sec-11-text h3 {
+        font-size: 30px;
+        padding-left: 0;
+    }
+
+    .sec-11-text p {
+        font-size: 22px;
+    }
+
+    .section-11 {
+        padding: 40px 0 45px 0px;
+    }
+
+    .footer_list h4 {
+        font-size: 18px;
+    }
+
+    .footer_list ul li a {
+        font-size: 14px;
+    }
+
+    .footer_wrapper {
+        padding: 80px 0px 30px 0px;
+    }
+    .rightcall-banner {
+        padding-left: 30px;
+    }
+
+    .left-banner-call-block h1 {
+        font-size: 30px;
+        line-height: normal;
+    }
+
+   
+
+    .product_img {
+        top: 50%;
+        max-width: 220px;
+    }
+
+    .bg_banner_img1 {
+        min-height: 330px;
+    }
+
+    .left-banner-call-block p {
+        font-size: 16px;
+        margin-bottom: 40px;
+
+    }
+
+    .left-banner-call-block a {
+        font-size: 22px;
+    }
+    .leftcall_abouted {
+        max-width: 50%;
+        padding: 0 15px;
+
+    }
+    .right_call_abouted {
+        padding: 0 15px;
+        width: 50%;
+    }
+    .row-page-2-row-2 {
+        margin: 0 -15px;
+    }
+    .abouted_text_content h4 , .ED_list h5 ,   .page2_sec10 .sec-10_head h4{ 
+        font-size: 18px;
+    }
+    .abouted_text_content h3 {
+        font-size: 42px;
+        margin: 0px 0px 20px 0px;
+    }
+    .ED_list p {
+        max-width: unset;
+        font-size: 14px;
+        line-height: 25px;
+        margin: 6px 0px 24px 0px;
+    }
+    .page_2sec3_block a  , .page2_sec5_btn a{
+        line-height: 42px;
+    }
+    .page_2sec3_block p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .col-3-for_pills {
+        margin-bottom: 30px;
+    }
+    .page2_section4 .row .col-3-for_pills:nth-child(3) , .page2_section4 .row .col-3-for_pills:nth-child(4){
+        margin-bottom: 0px;
+    }
+    .col-3-for_pills{
+        width: 50%;
+    }
+    .bringo_works_col-4 {
+        width: 100%;
+        text-align: left ;
+        display: flex;
+        margin-bottom: 35px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .page2_sec5_img{
+        width: 40%;
+    }
+    .bringo_works_textblock{
+        margin-top: 0 ;
+        padding-left: 30px;
+        width: 60%;
+    }
+    .page2_sec5_img img {
+        max-width: 100%;
+    }
+    .bringo_works_textblock p {
+        margin: unset;
+        max-width: unset;
+    }
+    .page2_section4 .page2_sec4_last_btn, .page2_sec5_btn {
+        margin-top: 30px;
+    }
+    .page-2-section5_head h4 {
+        font-size: 20px;
+    }
+    .page-2-section5_head h3 {
+        font-size: 38px;
+        line-height: 60px;
+        margin: 0px 0px 40px 0px;
+    }
+    .page2-section-6  .left_part_sec6 {
+        top: 53%;
+    }
+    .pricing_left_box {
+        padding: 25px;
+        background: #ffffff;
+    }
+    .pricing_list li h5, .total h5 , .pricing_list li p, .total p{
+        font-size: 16px;
+        line-height: 38px;
+    }
+    .pricing_right_col6_block h3 {
+        font-size: 28px;
+        margin: 20px  0;
+    }
+    .pricing_right_col6_block p {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 30px;    
+    }
+    .pricing_list li {
+        margin-bottom: 16px;
+    }
+    .total {
+        margin: 22px 0 0 0 !important;
+    }
+    .promise_call_content {
+        min-height: 100%;
+        justify-content: start;
+    }
+    .page2_sec10 .sec-10_head h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container , .page-2-section-2 .container  {
+        max-width: 540px;
+    }
+
+    .hamburger,
+    .hamburger-2 {
+        display: block;
+    }
+
+    .hamburger-2 {
+        position: absolute;
+        right: 30px;
+        top: 5%;
+    }
+
+    .hamburger-2 img {
+        filter: invert(0%) contrast(234%);
+    }
+
+    .parent_nav {
+        position: fixed;
+        background-color: rgb(0, 0, 0);
+        left: 0%;
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        padding: 15px;
+        top: 0%;
+        color: white;
+        transition: all 0.7s ease;
+        opacity: 0;
+        visibility: hidden;
+        clip-path: circle(0% at 0 0);
+        touch-action: none;
+        pointer-events: none;
+    }
+    .parent_nav.active {
+        opacity: 1;
+        visibility: visible;
+        clip-path: circle(100%);
+        touch-action: auto;
+        pointer-events: all;
+    }
+
+    .login_block {
+        margin-left: unset;
+    }
+
+    .nav li a,
+    .login_block li .color_hover {
+        color: rgb(255, 255, 255);
+        border-color: #Eb4b4b;
+    }
+
+    .nav,
+    .login_block {
+        margin-left: 0px;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav li,
+    .login_block {
+        margin: 0px;
+        padding: 10px 0px;
+    }
+
+    .login_block li:last-child {
+        display: none;
+    }
+
+    header {
+        padding: 15px 0px;
+    }
+
+    .right-call-sec4 {
+        padding-left: 42px;
+        width: 100%;
+        order: -1;
+    }
+
+    .left-call-sec4 {
+        width: 100%;
+    }
+
+    .Sexual_Health_img::before {
+        top: 170px;
+    }
+
+    .row_middel .right-call-sec4 {
+        padding-right: 42px;
+
+    }
+
+    .row_middel .left-call-sec4 {
+        margin-top: 25px;
+    }
+
+    .cm-call-4 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .cm_row-sec5 .cm-call-4:last-child {
+        margin-bottom: 0px;
+    }
+
+    .cm_row-sec5 {
+        margin-bottom: 40px;
+    }
+
+    .concern_block h3 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .text_strock {
+        font-size: 60px;
+        margin-bottom: 15px;
+        margin-right: 0px;
+    }
+
+    .concern_block {
+        padding: 30px 35px;
+    }
+
+    .right_part_sec6 {
+        max-width: 100%;
+    }
+
+    .left_part_sec6 {
+        padding: 36px 20px;
+        top: 71%;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .divider {
+        padding-top: 227px;
+    }
+
+    .left_part_sec6 .comman_btn,
+    .sec-11-btn a {
+        margin: auto;
+    }
+
+    .line_rotat {
+        display: none;
+    }
+
+    .right_call_s7 h3 {
+        font-size: 18px;
+    }
+
+    .right_call_s7 p,
+    .sec-7-head h5 {
+        font-size: 14px;
+    }
+
+    .right_call_s7 {
+        max-width: 55%;
+    }
+
+    .left_call_s7 {
+        width: 45%;
+    }
+
+    .sec-7-head h4 {
+        font-size: 24px;
+        margin: 15px 0px 36px 0px;
+    }
+
+    .sec-9-call-4 {
+        width: 100%;
+        margin-bottom: 55px;
+    }
+
+    .dive_in_head h4 {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .dive_in_head p , .page2_sec10 .sec-10_head h4  {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .dive_in_head h3 {
+        font-size: 44px;
+        line-height: 48px;
+        margin: 13px 0px 18px 0px;
+    }
+
+    .sec10-col-6 {
+        width: 100%;
+        padding: 0 30px;
+    }
+
+    .row_last {
+        margin: 0 -15px;
+    }
+
+    .sec-10_head h3 {
+        margin-bottom: 50px;
+    }
+
+    .accordion {
+        padding: 10px 0;
+    }
+
+    .sec-11-text,
+    .sec-11-btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .sec-11-text p {
+        margin-bottom: 18px;
+    }
+
+    .part-1,
+    .part-2,
+    .part-3,
+    .part-4,
+    .part-5 {
+        width: 100%;
+    }
+
+    .part-2,
+    .part-3,
+    .part-4 {
+        margin-bottom: 26px;
+    }
+
+    .part-1 {
+        text-align: center;
+    }
+
+    .part-1 a {
+        margin-top: 0px;
+        margin-bottom: 42px;
+    }
+
+    .footer_list ul li a {
+        margin-bottom: 12px;
+    }
+
+    .panel-2 {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.4s ease-out;
+    }
+    .panel-2 ul {
+        padding-top: 15px;
+    }
+    .footer_list h4 {
+        margin-bottom: 0px;
+    }
+    .accordion-2:after {
+        content: "";
+        background: url(../images/Page-1/arrow-helpcenter.svg);
+        width: 15px;
+        height: 9px;
+        filter: brightness(10) invert(10);
+        float: right;
+        transition: all 0.5s ease;
+        margin-top: 12px;
+        background-size: cover;
+    }
+
+    .active1:after {
+        transform: rotate(180deg);
+    }
+
+    .contact_details {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .contact_details li {
+        margin-right: 0px;
+    }
+
+    .footerbox h3 {
+        font-size: 18px;
+    }
+
+    .contact_details p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .contact_details li a {
+        font-size: 14px;
+    }
+
+    .footer_end_text {
+        margin-top: 40px;
+        padding-top: 18px;
+    }
+    .footer_wrapper {
+        padding: 60px 0px 20px 0px;
+    }
+    .rightcall-banner {
+        width: 100%;
+        margin: auto;
+        order: 1;
+        padding: 0;
+    }
+    .leftcall-banner {
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 50px;
+    }
+ 
+    .bg_banner_img1 {
+        background-position: right bottom;
+        background-size: contain;
+        width: 100%;   
+        border-radius: 0px 0px 120px 0px;
+        min-height: 400px;
+    }
+    .page-2-banner .container_banner {
+        padding: 130px 15px 0px 15px;
+        max-width: 540px;
+        margin: auto;
+       
+        border-radius: 0px 0px 120px 0px;
+    }
+    .row-banner{
+        margin: 0 -15px;
+    }
+    .product_img img{
+        margin: auto;
+    }
+    .product_img {
+        top: 0;
+        bottom: 0;
+        left: 24%;
+        margin: auto;
+        display: flex;
+    }
+    .left-banner-call-block p {
+        margin-bottom: 25px;
+    }
+    .left-banner-call-block a {
+        font-size: 18px;
+    }
+    .left-banner-call-block a svg {
+        margin-bottom: 2px;
+    }
+    .left-banner-call-block h1 {
+        margin: 8px 0px 16px 0px;
+    }  
+    .right_call_abouted {
+        width: 100%;
+    }
+     .leftcall_abouted {
+         margin-bottom: 30px;
+         max-width: 65%;
+     }
+    .page-2-banner {
+        padding-bottom: 40px;
+        padding-right: 40px;
+    }
+ 
+    .abouted_text_content h4, .ED_list h5 {
+        font-size: 16px;
+    }
+    .abouted_text_content h3 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .page2_sec4_head h3 {
+        margin: 8px 0px 30px 0px;
+        font-size: 18px;
+    }
+    .page2_sec5_btn {
+        margin-top: 10px;
+    }
+    .page2-section-6  .left_part_sec6 {
+        top: 76%;
+    }
+    .page2-section-6  .heathcare_block{
+        padding-bottom: 10rem;
+    }
+    .page2-section-6 .left_part_sec6 h5 br{
+        display: none;
+    }
+    .page2-section-6 .left_part_sec6 h5{
+        line-height: normal;
+    }
+    .page2_sec8 .left_part_sec6 {
+        left: 0;
+        right: 0;
+    }
+    .pricing_left_col6 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .pricing_right_col6 {
+        padding: 0 15px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .pricing_list li  {
+        margin-bottom: 5px;
+    }
+    .total {
+        margin: 8px 0 0 0 !important;
+    }
+    .promise_call-4 {
+         width: 50%;
+    }
+    .page2_section-9 .row {
+         justify-content: center;
+    }
+    .page2_section-9 .row .promise_call-4{
+        margin-bottom: 30px;
+
+    }
+    .page2_section-9 .row .promise_call-4:last-child{
+        margin-bottom: 0;
+    }
+    .promise_call_content h4 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .promise_call_content {
+     padding: 15px;
+    }
+    .row-page-2-row-2 {
+       justify-content: center; 
+    }
+    .abouted_text_content{
+        text-align: center;
+    }
+    .abouted_text_content .comman_btn{
+        margin: 0 auto;
+    }
+   
+}
+
+@media (max-width: 575px) {
+    .sec8_head p {
+        line-height: 24px;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .section-1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: calc(100vh - 74px);
+        background-position: 40% 100%;
+    }
+
+    .hero_text p,
+    .believe_service_title,
+    .sec2text p,
+    .sec_4_head p,
+    .sec8_head h4 {
+        font-size: 14px;
+    }
+
+    .section-1 {
+        padding: unset;
+    }
+
+    .believe_service_title,
+    .sec2text h3 {
+        line-height: normal;
+    }
+
+    .believe_service_title br {
+        display: none;
+    }
+
+    .sec2text h3 {
+        font-size: 28px;
+        margin-bottom: 55px;
+    }
+
+    .believe_service_img img {
+        max-width: 70px;
+    }
+
+    .who_we_are h3 {
+        font-size: 30px;
+        line-height: normal;
+        margin-bottom: 20px;
+    }
+
+    .who_we_are p {
+        font-size: 24px;
+        line-height: 1.4;
+    }
+
+    .Sexual_Health_img::before {
+        top: 26%;
+        width: 48%;
+        height: 92%;
+    }
+
+    .row_middel .Sexual_Health_img::before {
+        top: -20%;
+        width: 76%;
+        height: 92%;
+        right: -14%;
+    }
+
+    .row_middel {
+        margin-bottom: 0px;
+    }
+
+    .left_part_sec6 {
+        width: 90%;
+
+    }
+
+    .divider {
+        padding-top: 13rem;
+    }
+
+    .left_part_sec6 {
+        top: 70%;
+    }
+
+    .login_block_s6 a {
+        display: block;
+        margin-left: 0;
+    }
+
+    .left_call_s7 {
+        width: 100%;
+        order: -1;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .right_call_s7 {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    .how_works .row-y:nth-child(2) .right_call_s7 p {
+        max-width: unset;
+    }
+
+    .sec-7-head h4 {
+        font-family: "Sofia Pro";
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 32px;
+        margin: 0px;
+
+    }
+
+    .sec-7-head h5 {
+        font-family: Gilroy-Black;
+        font-weight: normal;
+        font-size: 40px;
+        line-height: normal;
+        letter-spacing: normal;
+        text-transform: capitalize;
+        margin-bottom: 48px;
+        margin-top: 8px;
+
+    }
+
+    .sec-7-head {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .left_s7_img {
+        max-width: 234px;
+        margin: auto;
+    }
+
+    .right_call_s7 h3 {
+        margin: 8px 0px 16px 0px;
+
+    }
+
+    .Start_Visit_btn {
+        display: block;
+
+    }
+
+    .card_img img,
+    .card_img {
+        height: 200px;
+
+    }
+
+    .cardbody h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .cardbody p {
+        margin-top: 5px;
+    }
+
+    .sec-9-call-4 {
+        margin-bottom: 65px;
+    }
+
+    .sec-10_head h4 {
+        font-size: 14px;
+
+    }
+
+    .sec-10_head h3 {
+        margin-bottom: 26px;
+    }
+
+    .accordion {
+        font-size: 16px;
+    }
+
+    .panel, .page2_sec9_head h5 {
+        font-size: 14px;
+    }
+
+    .part-1,
+    .part-2,
+    .part-3,
+    .part-4,
+    .part-5,
+    .part-6 {
+        padding: 0 15px;
+    }
+
+    .part-1 a {
+        margin-bottom: 32px;
+    }
+
+    .footer_end_text {
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        margin: 30px 0px 0px 0px;
+
+    }
+
+    .footer_end_text,
+    .footer_end_text a {
+        font-size: 12px;
+    }
+
+    .footer_end_text p:first-child {
+        margin-bottom: 12px;
+    }
+
+    .Sexual_Health_img {
+        max-width: 390px;
+    }
+
+    .footer_list ul li a {
+        margin-bottom: 8px;
+    }
+
+    .section-5 .container,
+    .section-8 .container,
+    .section-9 .container,
+    .bringo_footer_block .container {
+        padding: 0 30px;
+    }
+    .product_img {
+        max-width: 160px;
+        left: 20%;
+    }
+    .bg_banner_img1 {
+        min-height: 280px;
+    }
+    .leftcall_abouted {
+        max-width: 90%;
+    }
+    .row-page-2-row-2 {
+        justify-content: center;
+    }
+    .page_2sec3_block h3 {
+        font-size: 24px;
+    }
+    .page_2sec3_block p br , .pills_cardbody p br {
+        display: none;
+    }
+    .pills_cardbody {
+        padding: 15px 15px;
+    }
+    .pills_cardbody h2 {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .pills_cardbody p {
+        font-size: 14px;
+        margin: 12px 0;
+    }
+    .bringo_works_col-4 {
+        flex-direction: column;
+        text-align: center;
+    }
+    .page2_sec5_img , .bringo_works_textblock {
+        width: 100%;
+    }
+    .bringo_works_textblock {
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+    .page2_sec5_img img {
+        max-width: 240px;
+    }
+    .page2-section-6 .left_part_sec6 p {
+        margin-bottom: 25px;
+    }
+    .pricing_left_col6 {
+        padding: 0 15px;
+    }
+    .pricing_right_col6_block h5 {
+        font-size: 14px;
+    }
+    .pricing_right_col6_block h3 {
+        font-size: 24px;
+        margin: 12px  0;
+    }
+    .pricing_right_col6_block p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .pricing_list li h5, .total h5, .pricing_list li p, .total p {
+        line-height: 34px;
+    }
+    .promise_call_content p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .page2_sec9_head h3 {
+ 
+        font-size: 22px;
+        line-height: 28px;
+        margin: 15px 0 35px 0;
+    }
+    .page2_sec10 .sec-10_head h3 {
+        font-size: 32px;
+        margin-bottom: 28px;
+    }
+    .page-2-banner {
+        padding-bottom: 30px;
+        padding-right: 30px;
+    }
+    .leftcall-banner {
+        margin-bottom: 35px;
+    }
+    .page-2-banner .container_banner {  
+        max-width:100%;
+        margin: unset;
+    }
+    
+}
+
+@media (max-width: 516px) {
+    .divider {
+        padding-top: 15rem;
+    }
+
+    .left_part_sec6 {
+        top: 65%;
+    }
+
+    .accordion:after,
+    .accordion-2:after {
+        width: 12px;
+        height: 7px;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .divider {
+        padding-top: 19rem;
+    }
+
+    .left_part_sec6 {
+        top: 63%;
+    }
+
+    .divider br {
+        display: block;
+    }
+
+
+    .login_block_s6 {
+        line-height: 22px;
+
+    }
+
+    .login_block_s6 a {
+        margin-top: 16px;
+    }
+    .col-3-for_pills {
+        width: 100%;
+    }
+    .pills_cardbody h4 {
+        margin-top: 15px;
+    }
+    .page2_section4 .row .col-3-for_pills:nth-child(3)  {
+        margin-bottom: 30px;
+    }
+    .page2_section4 .page2_sec4_last_btn {
+        margin-top: 30px;
+    }
+    .page2-section-6_expo {
+        font-size: 16px;
+    }
+    .promise_call-4 {
+        width: 100%;
+    }
+    .page-2-banner {
+        padding-right: 20px;
+    }
+  
+}
+
+@media (max-width: 400px) {
+    .section-2 .cm_col_3 {
+        width: 100%;
+    }
+
+    .cm_row .cm_col_3:nth-child(3) {
+        margin-bottom: 45px;
+    }
+    .page2_sec8 .divider {
+        padding-top: 20rem;
+    }
+    .page2_sec8 .left_part_sec6 {
+        top: 61%;
+    }
+    .bg_banner_img1 {
+        background-position: right top;
+        background-size:cover;
+    }
+}
+
+@media (max-width: 367px) {
+   
+    .hero_text h1 {
+        font-size: 42px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+
+    .hero_text h1,
+    .sec-5-head h4,
+    .cm-call-4 h5,
+    .cm-call-4 h2,
+    .text_strock,
+    .left_part_sec6 p {
+        line-height: normal;
+    }
+
+    .health_block .row-x:first-child {
+        margin-bottom: 80px;
+    }
+
+    .section-2 {
+        padding: 70px 0px;
+    }
+
+    .section-4,
+    .section-7 {
+        padding: 65px 0px;
+    }
+
+    .sec_4_head h4 {
+        font-size: 22px;
+        margin-bottom: 45px;
+        margin-top: 16px;
+    }
+
+    .left-call-sec4 h3 {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+
+    .left-call-sec4 p {
+        font-size: 14px;
+        line-height: 1.3;
+    }
+
+    .section-4 .comman_btn,
+    .left_part_sec6 .comman_btn ,.abouted_text_content .comman_btn , .page2_sec4_last_btn  a , .pricing_right_col6 .comman_btn{
+        font-size: 14px !important;
+        width: 130px;
+        height: 43px;
+    }
+
+    .Start_Visit_btn a   , .page2_sec5_btn a{
+        line-height: 42px;
+        font-size: 14px!important;
+        width: 145px;
+        height: 42px;
+    }
+    .page_2sec3_block a{
+        font-size: 14px!important;
+        width: 160px;
+        height: 43px;
+    }
+    .page_2sec3_block h3 {
+        font-size: 20px;
+    }
+    .who_we_are p,
+    .hero_text a,
+    .concern_block h3 {
+        font-size: 18px;
+    }
+    .sec-7-head h4 ,.page-2-section5_head h4 {
+        font-size: 14px;
+    }
+    .left_s7_img {
+        max-width: 200px;
+    }
+    .sec-5-head h4,
+    .cm-call-4 h5,
+    .sec-11-text p {
+        font-size: 16px;
+    }
+    .left-call-sec4 {
+        padding-top: 55px;
+    }
+    .sec-5-head h3 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .cm-call-4 h2 {
+        font-size: 28px;
+    }
+    .left-banner-call-block h1 {
+        font-size: 24px;
+    }
+    .text_strock {
+        font-size: 48px;
+        margin-bottom: 0px;
+    }
+    .section-3,
+    .section-5,
+    .section-6,
+    .section-10 ,.page2_section-9 ,  .page-2-section-2 , .page2_section4 , .page-2-section5 , .page2_section-7 {
+        padding: 60px 0px;
+    }
+    .who_we_are h3 {
+        font-size: 26px;
+        margin-bottom: 8px;
+    }
+
+    .left_part_sec6 , .page2_sec8 .left_part_sec6 {
+        padding: 20px;
+        top: 58%;
+    }
+
+    .left_part_sec6 h2 {
+        font-size: 20px;
+    }
+
+    .left_part_sec6 h5 {
+        font-size: 16px;
+        margin: 8px 0px;
+    }
+
+    .left_part_sec6 p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .accordion , .left-banner-call-block h4 , .left-banner-call-block p , .page2_sec10 .sec-10_head h4{
+        font-size: 14px;
+    }
+
+    .sec-7-head h5 , .page-2-section5_head h3 {
+        font-size: 30px;
+    }
+
+    .divider , .page2_sec8 .divider  {
+        padding-top: 9rem;
+    }
+
+    .sec-10_head h3 {
+        font-size: 22px;
+    }
+
+    .sec-11-text h3 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+
+    .section-11 {
+        padding: 35px 0 35px 0px;
+    }
+
+    .section-5 .container,
+    .section-8 .container,
+    .section-9 .container {
+        padding: 0 15px;
+    }
+ 
+    .abouted_text_content h3 {
+        font-size: 28px;
+        line-height: normal;
+    }
+    .ED_list p {
+        line-height: 22px;
+        margin: 6px 0px 16px 0px;
+    }
+    .page-2-section5_head h3 {
+        line-height: normal;
+    }
+    .page2-section-6  .heathcare_block {
+        padding-bottom: 6rem;
+    }
+    .pricing_left_box {
+        padding: 20px;
+    }
+    .pricing_list h5{
+        width: 68%;
+    }
+    .pricing_list li h5, .total h5, .pricing_list li p, .total p {
+        line-height: 30px;
+    }
+    .promise_call_content h4 {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .promise_call_content p {
+        line-height: 24px;
+    }
+    .page2_sec9_head h3 {
+        font-size: 18px;
+        margin: 15px 0 30px 0;
+    }
+    .page2_sec10 .sec-10_head h3 {
+        font-size: 28px;
+    }
+}
